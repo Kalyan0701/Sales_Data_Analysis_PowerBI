@@ -153,7 +153,7 @@ ORDER BY Total_Rev ASC
 
 </aside>
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac6299d3-d945-4187-bab5-09cb0952ed52/13d46ac0-484c-4a2e-8a1a-7f07d49ea309/image.png)
+![My Image](\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-01-22 192354.png)
 
 1. Top Quantity Pizza
 
